@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 1ccb30c1f4cf70d41a724c7d92a8a345
+timeCreated: 1457265701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm
+    100002: arm1
+    100004: armmid
+    100006: armmid1
+    100008: book:book_root
+    100010: book:BookSkeleton
+    100012: book:left
+    100014: book:paper1
+    100016: book:paper2
+    100018: book:paper3
+    100020: book:paper4
+    100022: book:paper5
+    100024: book:paper_root
+    100026: book:right
+    100028: cloth
+    100030: cloth1
+    100032: //RootNode
+    100034: hand
+    100036: hand1
+    100038: index1
+    100040: index2
+    100042: index3
+    100044: index4
+    100046: index5
+    100048: index6
+    100050: index7
+    100052: index8
+    100054: little1
+    100056: little2
+    100058: little3
+    100060: little4
+    100062: little5
+    100064: little6
+    100066: little7
+    100068: little8
+    100070: middle1
+    100072: middle2
+    100074: middle3
+    100076: middle4
+    100078: middle5
+    100080: middle6
+    100082: middle7
+    100084: middle8
+    100086: palm
+    100088: palm1
+    100090: ring1
+    100092: ring2
+    100094: ring3
+    100096: ring4
+    100098: ring5
+    100100: ring6
+    100102: ring7
+    100104: ring8
+    100106: root
+    100108: thumb1
+    100110: thumb2
+    100112: thumb3
+    100114: thumb4
+    100116: thumb5
+    100118: thumb6
+    400000: arm
+    400002: arm1
+    400004: armmid
+    400006: armmid1
+    400008: book:book_root
+    400010: book:BookSkeleton
+    400012: book:left
+    400014: book:paper1
+    400016: book:paper2
+    400018: book:paper3
+    400020: book:paper4
+    400022: book:paper5
+    400024: book:paper_root
+    400026: book:right
+    400028: cloth
+    400030: cloth1
+    400032: //RootNode
+    400034: hand
+    400036: hand1
+    400038: index1
+    400040: index2
+    400042: index3
+    400044: index4
+    400046: index5
+    400048: index6
+    400050: index7
+    400052: index8
+    400054: little1
+    400056: little2
+    400058: little3
+    400060: little4
+    400062: little5
+    400064: little6
+    400066: little7
+    400068: little8
+    400070: middle1
+    400072: middle2
+    400074: middle3
+    400076: middle4
+    400078: middle5
+    400080: middle6
+    400082: middle7
+    400084: middle8
+    400086: palm
+    400088: palm1
+    400090: ring1
+    400092: ring2
+    400094: ring3
+    400096: ring4
+    400098: ring5
+    400100: ring6
+    400102: ring7
+    400104: ring8
+    400106: root
+    400108: thumb1
+    400110: thumb2
+    400112: thumb3
+    400114: thumb4
+    400116: thumb5
+    400118: thumb6
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

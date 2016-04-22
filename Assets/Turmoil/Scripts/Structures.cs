@@ -1,0 +1,11 @@
+﻿public enum WeaponTypes
+{
+    LIGHTNING_PRIMARY,
+    LIGHTNING_SECONDARY,
+
+    FIRE_PRIMARY,
+    FIRE_SECONDARY,
+
+    ICE_PRIMARY,
+    ICE_SECONDARY
+}

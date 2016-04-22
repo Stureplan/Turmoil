@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: be3ccb604820d324f9a4e15c9b859799
+timeCreated: 1456168875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm
+    100002: arm1
+    100004: armmid
+    100006: armmid1
+    100008: book:book_root
+    100010: book:BookSkeleton
+    100012: book:left
+    100014: book:paper1
+    100016: book:paper2
+    100018: book:paper3
+    100020: book:paper4
+    100022: book:paper5
+    100024: book:paper_root
+    100026: book:right
+    100028: cloth
+    100030: cloth1
+    100032: //RootNode
+    100034: hand
+    100036: hand1
+    100038: index1
+    100040: index2
+    100042: index3
+    100044: index4
+    100046: index5
+    100048: index6
+    100050: index7
+    100052: index8
+    100054: little1
+    100056: little2
+    100058: little3
+    100060: little4
+    100062: little5
+    100064: little6
+    100066: little7
+    100068: little8
+    100070: middle1
+    100072: middle2
+    100074: middle3
+    100076: middle4
+    100078: middle5
+    100080: middle6
+    100082: middle7
+    100084: middle8
+    100086: palm
+    100088: palm1
+    100090: ring1
+    100092: ring2
+    100094: ring3
+    100096: ring4
+    100098: ring5
+    100100: ring6
+    100102: ring7
+    100104: ring8
+    100106: root
+    100108: thumb1
+    100110: thumb2
+    100112: thumb3
+    100114: thumb4
+    100116: thumb5
+    100118: thumb6
+    100120: FPS_Mage:arm
+    100122: FPS_Mage:arm1
+    100124: FPS_Mage:armmid
+    100126: FPS_Mage:armmid1
+    100128: FPS_Mage:book:book_root
+    100130: FPS_Mage:book:BookSkeleton
+    100132: FPS_Mage:book:left
+    100134: FPS_Mage:book:paper1
+    100136: FPS_Mage:book:paper2
+    100138: FPS_Mage:book:paper3
+    100140: FPS_Mage:book:paper4
+    100142: FPS_Mage:book:paper5
+    100144: FPS_Mage:book:paper_root
+    100146: FPS_Mage:book:right
+    100148: FPS_Mage:cloth
+    100150: FPS_Mage:cloth1
+    100152: FPS_Mage:hand
+    100154: FPS_Mage:hand1
+    100156: FPS_Mage:index1
+    100158: FPS_Mage:index2
+    100160: FPS_Mage:index3
+    100162: FPS_Mage:index4
+    100164: FPS_Mage:index5
+    100166: FPS_Mage:index6
+    100168: FPS_Mage:index7
+    100170: FPS_Mage:index8
+    100172: FPS_Mage:little1
+    100174: FPS_Mage:little2
+    100176: FPS_Mage:little3
+    100178: FPS_Mage:little4
+    100180: FPS_Mage:little5
+    100182: FPS_Mage:little6
+    100184: FPS_Mage:little7
+    100186: FPS_Mage:little8
+    100188: FPS_Mage:middle1
+    100190: FPS_Mage:middle2
+    100192: FPS_Mage:middle3
+    100194: FPS_Mage:middle4
+    100196: FPS_Mage:middle5
+    100198: FPS_Mage:middle6
+    100200: FPS_Mage:middle7
+    100202: FPS_Mage:middle8
+    100204: FPS_Mage:palm
+    100206: FPS_Mage:palm1
+    100208: FPS_Mage:ring1
+    100210: FPS_Mage:ring2
+    100212: FPS_Mage:ring3
+    100214: FPS_Mage:ring4
+    100216: FPS_Mage:ring5
+    100218: FPS_Mage:ring6
+    100220: FPS_Mage:ring7
+    100222: FPS_Mage:ring8
+    100224: FPS_Mage:root
+    100226: FPS_Mage:thumb1
+    100228: FPS_Mage:thumb2
+    100230: FPS_Mage:thumb3
+    100232: FPS_Mage:thumb4
+    100234: FPS_Mage:thumb5
+    100236: FPS_Mage:thumb6
+    400000: arm
+    400002: arm1
+    400004: armmid
+    400006: armmid1
+    400008: book:book_root
+    400010: book:BookSkeleton
+    400012: book:left
+    400014: book:paper1
+    400016: book:paper2
+    400018: book:paper3
+    400020: book:paper4
+    400022: book:paper5
+    400024: book:paper_root
+    400026: book:right
+    400028: cloth
+    400030: cloth1
+    400032: //RootNode
+    400034: hand
+    400036: hand1
+    400038: index1
+    400040: index2
+    400042: index3
+    400044: index4
+    400046: index5
+    400048: index6
+    400050: index7
+    400052: index8
+    400054: little1
+    400056: little2
+    400058: little3
+    400060: little4
+    400062: little5
+    400064: little6
+    400066: little7
+    400068: little8
+    400070: middle1
+    400072: middle2
+    400074: middle3
+    400076: middle4
+    400078: middle5
+    400080: middle6
+    400082: middle7
+    400084: middle8
+    400086: palm
+    400088: palm1
+    400090: ring1
+    400092: ring2
+    400094: ring3
+    400096: ring4
+    400098: ring5
+    400100: ring6
+    400102: ring7
+    400104: ring8
+    400106: root
+    400108: thumb1
+    400110: thumb2
+    400112: thumb3
+    400114: thumb4
+    400116: thumb5
+    400118: thumb6
+    400120: FPS_Mage:arm
+    400122: FPS_Mage:arm1
+    400124: FPS_Mage:armmid
+    400126: FPS_Mage:armmid1
+    400128: FPS_Mage:book:book_root
+    400130: FPS_Mage:book:BookSkeleton
+    400132: FPS_Mage:book:left
+    400134: FPS_Mage:book:paper1
+    400136: FPS_Mage:book:paper2
+    400138: FPS_Mage:book:paper3
+    400140: FPS_Mage:book:paper4
+    400142: FPS_Mage:book:paper5
+    400144: FPS_Mage:book:paper_root
+    400146: FPS_Mage:book:right
+    400148: FPS_Mage:cloth
+    400150: FPS_Mage:cloth1
+    400152: FPS_Mage:hand
+    400154: FPS_Mage:hand1
+    400156: FPS_Mage:index1
+    400158: FPS_Mage:index2
+    400160: FPS_Mage:index3
+    400162: FPS_Mage:index4
+    400164: FPS_Mage:index5
+    400166: FPS_Mage:index6
+    400168: FPS_Mage:index7
+    400170: FPS_Mage:index8
+    400172: FPS_Mage:little1
+    400174: FPS_Mage:little2
+    400176: FPS_Mage:little3
+    400178: FPS_Mage:little4
+    400180: FPS_Mage:little5
+    400182: FPS_Mage:little6
+    400184: FPS_Mage:little7
+    400186: FPS_Mage:little8
+    400188: FPS_Mage:middle1
+    400190: FPS_Mage:middle2
+    400192: FPS_Mage:middle3
+    400194: FPS_Mage:middle4
+    400196: FPS_Mage:middle5
+    400198: FPS_Mage:middle6
+    400200: FPS_Mage:middle7
+    400202: FPS_Mage:middle8
+    400204: FPS_Mage:palm
+    400206: FPS_Mage:palm1
+    400208: FPS_Mage:ring1
+    400210: FPS_Mage:ring2
+    400212: FPS_Mage:ring3
+    400214: FPS_Mage:ring4
+    400216: FPS_Mage:ring5
+    400218: FPS_Mage:ring6
+    400220: FPS_Mage:ring7
+    400222: FPS_Mage:ring8
+    400224: FPS_Mage:root
+    400226: FPS_Mage:thumb1
+    400228: FPS_Mage:thumb2
+    400230: FPS_Mage:thumb3
+    400232: FPS_Mage:thumb4
+    400234: FPS_Mage:thumb5
+    400236: FPS_Mage:thumb6
+    7400000: Lightning_Idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Lightning_Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: book:BookSkeleton
+        weight: 1
+      - path: book:BookSkeleton/book:book_root
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:left
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:paper_root
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:paper_root/book:paper1
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:paper_root/book:paper1/book:paper2
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:paper_root/book:paper1/book:paper2/book:paper3
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:paper_root/book:paper1/book:paper2/book:paper3/book:paper4
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:paper_root/book:paper1/book:paper2/book:paper3/book:paper4/book:paper5
+        weight: 1
+      - path: book:BookSkeleton/book:book_root/book:right
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/arm
+        weight: 1
+      - path: root/arm/armmid
+        weight: 1
+      - path: root/arm/armmid/hand
+        weight: 1
+      - path: root/arm/armmid/hand/palm
+        weight: 1
+      - path: root/arm/armmid/hand/palm/index1
+        weight: 1
+      - path: root/arm/armmid/hand/palm/index1/index2
+        weight: 1
+      - path: root/arm/armmid/hand/palm/index1/index2/index3
+        weight: 1
+      - path: root/arm/armmid/hand/palm/index1/index2/index3/index4
+        weight: 1
+      - path: root/arm/armmid/hand/palm/little1
+        weight: 1
+      - path: root/arm/armmid/hand/palm/little1/little2
+        weight: 1
+      - path: root/arm/armmid/hand/palm/little1/little2/little3
+        weight: 1
+      - path: root/arm/armmid/hand/palm/little1/little2/little3/little4
+        weight: 1
+      - path: root/arm/armmid/hand/palm/middle1
+        weight: 1
+      - path: root/arm/armmid/hand/palm/middle1/middle2
+        weight: 1
+      - path: root/arm/armmid/hand/palm/middle1/middle2/middle3
+        weight: 1
+      - path: root/arm/armmid/hand/palm/middle1/middle2/middle3/middle4
+        weight: 1
+      - path: root/arm/armmid/hand/palm/ring1
+        weight: 1
+      - path: root/arm/armmid/hand/palm/ring1/ring2
+        weight: 1
+      - path: root/arm/armmid/hand/palm/ring1/ring2/ring3
+        weight: 1
+      - path: root/arm/armmid/hand/palm/ring1/ring2/ring3/ring4
+        weight: 1
+      - path: root/arm/armmid/hand/thumb1
+        weight: 1
+      - path: root/arm/armmid/hand/thumb1/thumb2
+        weight: 1
+      - path: root/arm/armmid/hand/thumb1/thumb2/thumb3
+        weight: 1
+      - path: root/arm/cloth
+        weight: 1
+      - path: root/arm1
+        weight: 1
+      - path: root/arm1/armmid1
+        weight: 1
+      - path: root/arm1/armmid1/hand1
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/index5
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/index5/index6
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/index5/index6/index7
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/index5/index6/index7/index8
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/little5
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/little5/little6
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/little5/little6/little7
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/little5/little6/little7/little8
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/middle5
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/middle5/middle6
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/middle5/middle6/middle7
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/middle5/middle6/middle7/middle8
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/ring5
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/ring5/ring6
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/ring5/ring6/ring7
+        weight: 1
+      - path: root/arm1/armmid1/hand1/palm1/ring5/ring6/ring7/ring8
+        weight: 1
+      - path: root/arm1/armmid1/hand1/thumb4
+        weight: 1
+      - path: root/arm1/armmid1/hand1/thumb4/thumb5
+        weight: 1
+      - path: root/arm1/armmid1/hand1/thumb4/thumb5/thumb6
+        weight: 1
+      - path: root/arm1/cloth1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 65fd5220de7498941b465997d65e62e7,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
